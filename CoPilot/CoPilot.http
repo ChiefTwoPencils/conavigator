@@ -1,0 +1,6 @@
+@CoPilot_HostAddress = http://localhost:5271
+
+GET {{CoPilot_HostAddress}}/user?id=ca38e494-0337-4752-a050-601b2dd1056d
+Accept: application/json
+
+###
